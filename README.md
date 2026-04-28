@@ -1,9 +1,7 @@
 # Hi, I'm Douglas
 
-Fullstack Developer  
-Systems Analysis and Development @ PUCRS  
-
-Working with modern web technologies and deepening knowledge in low-level programming.
+Currently working with React, Next.js and TypeScript,  
+while deepening my knowledge in C and low-level programming.
 
 ---
 
