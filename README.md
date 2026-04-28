@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Douglas
+# Hi, I'm Douglas
 
-💻 Fullstack Developer in progress  
-🎓 Systems Analysis and Development @ PUCRS  
+* Fullstack Developer in progress  
+* Systems Analysis and Development @ PUCRS  
 
 Focused on building solid foundations in software development,  
 combining modern web technologies with low-level programming.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
