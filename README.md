@@ -1,7 +1,7 @@
 # Hi, I'm Douglas
 
-Currently working with React, Next.js and TypeScript,  
-while deepening my knowledge in C and low-level programming.
+Building web applications with React and Next.js,  
+while advancing into low-level programming with C.
 
 ---
 
