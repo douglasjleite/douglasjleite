@@ -25,5 +25,4 @@ and I'm currently exploring low-level programming with C.
 
 ## 📚 Currently
 
-- Studying ADS @ PUCRS  
-- Cadet at 42 São Paulo
+ADS @ PUCRS • 42 São Paulo Student
