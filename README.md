@@ -1,4 +1,4 @@
-# Hi, I'm Douglas 👋
+# Hi, I'm Douglas
 
 Frontend Developer focused on building modern and scalable web applications.
 
@@ -7,7 +7,7 @@ and I'm currently exploring low-level programming with C.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
@@ -16,13 +16,13 @@ and I'm currently exploring low-level programming with C.
 
 ---
 
-## 🛠 Tools & Environment
+## Tools & Environment
 
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📚 Currently
+## Currently
 
 ADS @ PUCRS • 42 São Paulo Student
