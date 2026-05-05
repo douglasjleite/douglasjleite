@@ -21,13 +21,4 @@ and I'm currently exploring low-level programming with C.
 ## 📚 Currently
 
 - Studying ADS @ PUCRS  
-- Cadet at 42 São Paulo  
-- Deepening knowledge in C and system fundamentals  
-
----
-
-## 🎯 Goals
-
-- Become a strong Fullstack Developer  
-- Master low-level and high-level programming  
-- Build real-world scalable applications  
+- Cadet at 42 São Paulo
